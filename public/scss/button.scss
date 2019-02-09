@@ -1,0 +1,13 @@
+.submitBtn {
+    background: #56b729;
+    color: rgb(255, 255, 255);
+    width: 200px;
+    margin: 20px 0 20px;
+    padding: 10px;
+    border-radius: 90px;
+    transition: opacity .5s;
+    cursor: pointer;
+    &:hover {
+      opacity: .6;
+    }
+  }
